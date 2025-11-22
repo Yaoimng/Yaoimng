@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+a+Data+Engineer;Crafting+Scalable+Pipelines;Cloud+%26+DevOps+Enthusiast;Exploring+AR+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+a+Data+Engineer;Crafting+Scalable+Pipelines;Cloud+%26+DevOps+Enthusiast;Exploring+AR+%26+Robotics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Im+Fadhil+Zaky)](https://git.io/typing-svg)" alt="Typing SVG" />
 
   <p align="center">
     <b>Building robust data infrastructure & driving technical decisions.</b>

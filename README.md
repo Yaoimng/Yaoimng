@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QBd2kLB5qDmysEXre9/giphy.gif" alt="Side Visual" width="85%" style="border-radius: 10px;" />
+      <img src="https://github.com/Yaoimng/Yaoimng/blob/be58a53ac3a4b5904f54f6a390a41c89960ea681/Asset%203.png" alt="Side Visual" width="85%" style="border-radius: 10px;" />
     </td>
     <td width="70%" valign="center" style="border: none;">
       <h3>⚡ About Me</h3>

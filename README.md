@@ -2,20 +2,33 @@
   <img src="https://github.com/Yaoimng/Yaoimng/blob/86a850ca1c21d3ce625e72917049c6c9b339bb75/Banner%20Linkedin.jpg" width="100%" alt="Header Banner" />
 </div>
 
-<div align="center">
+<br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Undergraduate+AI+Engineering+Student;Architecting+Scalable+Data+Pipelines;Exploring+Cloud+Native+Technologies" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer-black?style=flat-square&color=E7F321" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Infrastructure-black?style=flat-square&color=E7F321" alt="Focus">
+</p>
 
-  <br/>
+<br/>
 
-  <p align="center" style="font-size: 16px; max-width: 600px;">
-    Saya adalah mahasiswa teknik yang menjembatani kesenjangan antara <b>Kecerdasan Buatan (AI)</b> dan <b>Infrastruktur Data</b>.<br/>
-    Fokus utama saya saat ini adalah membangun sistem yang andal, otomatis, dan dapat diskalakan (scalable).
-  </p>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="center" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QBd2kLB5qDmysEXre9/giphy.gif" alt="Side Visual" width="85%" style="border-radius: 10px;" />
+    </td>
+    <td width="70%" valign="center" style="border: none;">
+      <h3>⚡ About Me</h3>
+      <p>
+        Hai, saya adalah Data Engineer yang berfokus pada pembangunan infrastruktur data yang tangguh dan dapat diskalakan (scalable). Saya menjembatani kesenjangan antara data mentah dan wawasan bisnis yang dapat ditindaklanjuti.
+      </p>
+      <p>
+        Ketertarikan saya tidak hanya pada pipa data (pipelines), tetapi juga pada eksplorasi teknologi masa depan seperti Robotics dan AR, membawa perspektif kreatif ke dalam rekayasa teknis.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <br/>
+<br/>
 
   <p>
     <a href="https://www.linkedin.com/in/fadhilzab/" target="_blank">

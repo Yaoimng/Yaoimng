@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Yaoimng/Yaoimng/blob/e3a49629325e255682f61d1d8f32c694e36863d1/Banner%20Linkedin.jpg" width="100%" alt="Header Banner" />
+  <img src="MASUKKAN_LINK_URL_GAMBAR_BANNER_KUNING_ANDA_DISINI.png" width="100%" alt="Header Banner" />
 </div>
 
 <br/>

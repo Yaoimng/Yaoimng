@@ -40,10 +40,10 @@
         <li><b>Clean Architecture:</b> Mendesain sistem yang modular dan mudah dipelihara di Cloud (AWS/GCP) dan Kubernetes.</li>
       </ul>
       <br/>
-      <a href="mailto:EMAIL_ANDA_DISINI">
+      <a href="mailto:zakysurya12@gmail.com">
         <img src="https://img.shields.io/badge/Email-Me-black?style=for-the-badge&logo=gmail&logoColor=E7F321&color=black" alt="Email">
       </a>
-      <a href="LINK_LINKEDIN_ANDA_DISINI">
+      <a href="https://www.linkedin.com/in/fadhilzab/">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=E7F321&color=black" alt="LinkedIn">
       </a>
     </td>
@@ -57,7 +57,7 @@
 
 <div align="center">
   <h3>📊 GitHub Status</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=E7F321&text_color=c9d1d9&icon_color=E7F321&ring_color=E7F321" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaoimng&show_icons=true&theme=transparent&hide_border=true&title_color=E7F321&text_color=c9d1d9&icon_color=E7F321&ring_color=E7F321" alt="Stats" />
 </div>
 
 <br/>

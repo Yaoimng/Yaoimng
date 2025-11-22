@@ -19,10 +19,10 @@
     <td width="70%" valign="center" style="border: none;">
       <h3>⚡ About Me</h3>
       <p>
-        Hai, saya adalah Data Engineer yang berfokus pada pembangunan infrastruktur data yang tangguh dan dapat diskalakan (scalable). Saya menjembatani kesenjangan antara data mentah dan wawasan bisnis yang dapat ditindaklanjuti.
+        As a fifth-semester Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (ITS), I am deeply engaged in the core principles of intelligent systems. My academic journey has provided me with a solid foundation in Machine Learning, Deep Learning, Data Mining, and Natural Language Processing (NLP). 
       </p>
       <p>
-        Ketertarikan saya tidak hanya pada pipa data (pipelines), tetapi juga pada eksplorasi teknologi masa depan seperti Robotics dan AR, membawa perspektif kreatif ke dalam rekayasa teknis.
+        I am passionate about leveraging these skills to analyze complex data and build impactful AI-driven solutions.
       </p>
     </td>
   </tr>
@@ -30,7 +30,7 @@
 
 <br/>
 
-  <p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/fadhilzab/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>

@@ -1,61 +1,87 @@
 <div align="center">
+  <img src="MASUKKAN_LINK_URL_GAMBAR_BANNER_KUNING_ANDA_DISINI.png" width="100%" alt="Header Banner" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+a+Data+Engineer;Crafting+Scalable+Pipelines;Cloud+%26+DevOps+Enthusiast;Exploring+AR+%26+Robotics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Im+Fadhil+Zaky)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com?font=Gotham+Black&pause=1000&width=435&lines=Hi...+Im+Fadhil+Zaky)](https://git.io/typing-svg)" alt="Typing SVG" />
+<br/>
 
-  <p align="center">
-    <b>Building robust data infrastructure & driving technical decisions.</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer-black?style=flat-square&color=E7F321" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Infrastructure-black?style=flat-square&color=E7F321" alt="Focus">
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="center" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMmZlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QBd2kLB5qDmysEXre9/giphy.gif" alt="Side Visual" width="85%" style="border-radius: 10px;" />
+    </td>
+    <td width="70%" valign="center" style="border: none;">
+      <h3>⚡ About Me</h3>
+      <p>
+        Hai, saya adalah Data Engineer yang berfokus pada pembangunan infrastruktur data yang tangguh dan dapat diskalakan (scalable). Saya menjembatani kesenjangan antara data mentah dan wawasan bisnis yang dapat ditindaklanjuti.
+      </p>
+      <p>
+        Ketertarikan saya tidak hanya pada pipa data (pipelines), tetapi juga pada eksplorasi teknologi masa depan seperti Robotics dan AR, membawa perspektif kreatif ke dalam rekayasa teknis.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+     <td width="65%" valign="top" style="border: none;">
+      <h3>🧠 Technical Philosophy</h3>
+      <ul>
+        <li><b>Robustness over Hype:</b> Memilih alat yang tepat untuk stabilitas jangka panjang, bukan sekadar tren.</li>
+        <li><b>Automation First:</b> Jika bisa dilakukan lebih dari dua kali, otomatisasi dengan Airflow atau script.</li>
+        <li><b>Clean Architecture:</b> Mendesain sistem yang modular dan mudah dipelihara di Cloud (AWS/GCP) dan Kubernetes.</li>
+      </ul>
+      <br/>
+      <a href="mailto:EMAIL_ANDA_DISINI">
+        <img src="https://img.shields.io/badge/Email-Me-black?style=for-the-badge&logo=gmail&logoColor=E7F321&color=black" alt="Email">
+      </a>
+      <a href="LINK_LINKEDIN_ANDA_DISINI">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=E7F321&color=black" alt="LinkedIn">
+      </a>
+    </td>
+     <td width="35%" align="center" valign="center" style="border: none;">
+       <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60%" alt="Tech Gif" style="opacity: 0.6; filter: grayscale(100%);">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Status</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=E7F321&text_color=c9d1d9&icon_color=E7F321&ring_color=E7F321" alt="Stats" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <h3>🛠️ My Stacks</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Spark-F25022?style=for-the-badge&logo=apache-spark&logoColor=white" />
   </p>
-
-  <br/>
-
-  <p align="center">
-    Saya berfokus pada desain sistem data yang <i>scalable</i>, orkestrasi pipeline, dan kolaborasi teknis antara Product Manager dan Backend Engineers. <br>
-    Menggabungkan ketajaman teknis data dengan kreativitas dalam <i>Extended Reality</i> (XR).
-  </p>
-
-  <br/>
-
-  <h3>🛠️  Core Tech Stack</h3>
   
   <p>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Spark-F25022?style=for-the-badge&logo=apache-spark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
-  <br/>
-
-  <h3>🎨  Creative Engineering & Interests</h3>
   <p>
-    <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROS2_(Robotics)-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   </p>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7" alt="Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=c9d1d9" alt="Languages" />
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="mailto:EMAIL_ANDA" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="LINK_LINKEDIN_ANDA" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
 </div>

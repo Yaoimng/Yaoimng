@@ -48,28 +48,28 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="150"><b>Core & AI</b></td>
-      <td align="center" width="150"><b>Data Ops</b></td>
-      <td align="center" width="150"><b>Cloud & Infra</b></td>
+      <td align="center" width="150"><b>🤖 Artificial Intelligence</b></td>
+      <td align="center" width="150"><b>📊 Analytics Data</b></td>
+      <td align="center" width="150"><b>🖍 Design</b></td>
     </tr>
     <tr>
       <td align="center" style="vertical-align: top;">
         <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/><br/>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/><br/>
+        <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace"/><br/>
         <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="Tensorflow"/><br/>
          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
       </td>
       <td align="center" style="vertical-align: top;">
-        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow"/><br/>
-        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/><br/>
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/><br/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/><br/>
         <img src="https://img.shields.io/badge/Apache%20Spark-F25022?style=flat&logo=apachespark&logoColor=white" alt="Spark"/><br/>
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/>
       </td>
       <td align="center" style="vertical-align: top;">
-        <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/><br/>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/><br/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/><br/>
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="K8s"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br/>
+        <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash"/><br/>
+        <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="Adobe After Effects"/><br/>
+        <img src="[https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)" alt="Adobe Photoshop"/>
       </td>
     </tr>
   </table>
@@ -82,7 +82,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaoimng&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Yaoimng&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaoimng&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" alt="Languages" />
 </div>
 
 <br/>

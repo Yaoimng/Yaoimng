@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="MASUKKAN_LINK_URL_GAMBAR_BANNER_KUNING_ANDA_DISINI.png" width="100%" alt="Header Banner" />
+  <img src="https://github.com/Yaoimng/Yaoimng/blob/86a850ca1c21d3ce625e72917049c6c9b339bb75/Banner%20Linkedin.jpg" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -18,10 +18,10 @@
   <br/>
 
   <p>
-    <a href="LINK_LINKEDIN_ANDA" target="_blank">
+    <a href="https://www.linkedin.com/in/fadhilzab/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:EMAIL_ANDA" target="_blank">
+    <a href="mailto:zakysurya12@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
@@ -67,9 +67,9 @@
 
 <h3 align="center">📈 Coding Activity</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaoimng&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Yaoimng&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" alt="Languages" />
 </div>
 
 <br/>

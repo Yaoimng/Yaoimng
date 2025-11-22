@@ -4,13 +4,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Engineer-black?style=flat-square&color=E7F321" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Infrastructure-black?style=flat-square&color=E7F321" alt="Focus">
-</p>
-
-<br/>
-
 <table>
   <tr>
     <td width="30%" align="center" valign="center" style="border: none;">
@@ -69,7 +62,7 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/><br/>
         <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash"/><br/>
         <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="Adobe After Effects"/><br/>
-        <img src="[https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)" alt="Adobe Photoshop"/>
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop"/>
       </td>
     </tr>
   </table>

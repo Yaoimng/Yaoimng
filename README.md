@@ -9,7 +9,7 @@
     <td width="30%" align="center" valign="center" style="border: none;">
       <img src="https://github.com/Yaoimng/Yaoimng/blob/5f1884249892482a66a070803facd1d2ec5f60da/Asset%203.png" width="85%" style="border-radius: 10px;" />
     </td>
-    <td width="70%" valign="center" style="border: none;">
+    <td width="70%" valign="center" style="border-radius: 15px;">
       <h3>⚡ About Me</h3>
       <p>
         As a fifth-semester Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (ITS), I am deeply engaged in the core principles of intelligent systems. My academic journey has provided me with a solid foundation in Machine Learning, Deep Learning, Data Mining, and Natural Language Processing (NLP). 

@@ -68,18 +68,6 @@
   </table>
 </div>
 
-<br/>
-<br/>
-
-<h3 align="center">📈 Coding Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaoimng&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaoimng&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" alt="Languages" />
-</div>
-
-<br/>
-<br/>
 
 <div align="center">
   <i>"Turning data into decisions, and models into reality."</i>

@@ -68,6 +68,8 @@
   </table>
 </div>
 
+![snake gif](https://github.com/Yaoimng/Yaoimng/blob/output/github-snake-dark.svg)
+
 
 <div align="center">
   <i>"Turning data into decisions, and models into reality."</i>
